@@ -1,5 +1,5 @@
 import unittest
-from week5.model.location import Location
+from week_5.model.location import Location
 
 
 class TestLocation(unittest.TestCase):

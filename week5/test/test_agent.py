@@ -1,6 +1,6 @@
 import unittest
-from week5.model.location import Location
-from week5.model.agent import Agent
+from week_5.model.location import Location
+from week_5.model.agent import Agent
 
 
 class TestAgent(unittest.TestCase):

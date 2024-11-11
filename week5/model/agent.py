@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from week5.model.location import Location
+from week_5.model.location import Location
 
 
 class Agent(ABC):

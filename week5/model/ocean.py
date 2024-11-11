@@ -1,7 +1,7 @@
 from typing import List
-from week5.model.agent import Agent
-from week5.model.environment import Environment
-from week5.model.location import Location
+from week_5.model.agent import Agent
+from week_5.model.environment import Environment
+from week_5.model.location import Location
 
 
 class Ocean(Environment):
